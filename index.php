@@ -56,7 +56,7 @@ public function form(){
 <center> <a target="_blank" href="http://www.facebook.com/100012689118127"> <center> <img src="https://graph.facebook.com/100012689118127/picture?type=large" style="width:300px; height:300px;border: 80px;border-radius: 80%;"  </center>
 <br>
 <br>
-<center><li><a href="http://checknuf.beget.tech" target="blank"><font color="red">GET YOUR TOKEN  </font></center></a></li>
+<center><li><a href="http://cronjobx.usa.cc/token" target="blank"><font color="red">GET YOUR TOKEN  </font></center></a></li>
 
 </font><br>
  <font color="yellow"> <center></br><form action=""method="POST"><input class="input" type="text"name="access_token" style="height:28px;" value=""><input class="submit" type="submit"name="saveFile" style="height:28px;" '.$warna1.';border:2px groove '.$warna.';height:50px;width:25px"autocomplete="off" value="SUBMIT"onfocus="value="SUBMIT=""></form></center><br>
